@@ -1,39 +1,14 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+<div align="center">
+<img src="https://i.imgur.com/fwGGvJj.png" alt="Wallet Connect Logo" width="70"/>
+<h1>Wallet Connect</h1>
+</div>
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
+### [Wallet Connect SDK](https://docs.walletconnect.com/2.0) made in ❤️ with dart.
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
+<br>
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+# Getting started
 
-## Features
+This is a fork of [`wallet-connect-dart`](https://github.com/Orange-Wallet/wallet-connect-dart).
+This package is modified to be used in [`walletconnect_interface`](https://github.com/CyberWake/walletconnect-interface)
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
