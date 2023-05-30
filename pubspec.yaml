@@ -1,7 +1,7 @@
 name: wc_dart_v1
-description: A new Flutter project.
-version: 0.0.1
-homepage: https://github.com/Orange-Wallet/wallet-connect-dart
+description: Wallet Connect sdk for dart.
+version: 0.0.2
+homepage: https://github.com/CyberWake/wallet-connect-dart-v1
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
